@@ -1,0 +1,11 @@
+{
+    "name": "TitikKemacetan",
+    "alias": "titikkemacetan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TitikKemacetan\\Providers\\TitikKemacetanServiceProvider"
+    ],
+    "files": []
+}

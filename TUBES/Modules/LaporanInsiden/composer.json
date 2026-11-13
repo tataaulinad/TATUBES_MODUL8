@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/laporaninsiden",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\LaporanInsiden\\": "app/",
+            "Modules\\LaporanInsiden\\Database\\Factories\\": "database/factories/",
+            "Modules\\LaporanInsiden\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\LaporanInsiden\\Tests\\": "tests/"
+        }
+    }
+}

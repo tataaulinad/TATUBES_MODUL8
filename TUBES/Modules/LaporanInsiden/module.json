@@ -1,0 +1,11 @@
+{
+    "name": "LaporanInsiden",
+    "alias": "laporaninsiden",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LaporanInsiden\\Providers\\LaporanInsidenServiceProvider"
+    ],
+    "files": []
+}
